@@ -1,6 +1,8 @@
 ### Howdy! 👋
 
-I am a robotics master's student at the University of Pennsylvania. I received my bachelor's degree in computer science engineering (CSE) at the University of Michigan, with a second bachelor's degree in electrical and computer engineering (ECE) at Shanghai Jiao Tong University. You can find a short story about me [here](https://zhihaoruan.xyz/about/). A copy of my CV can be found [on my website](https://zhihaoruan.xyz/curriculum-vitae).
+I am a robotics master's student at the University of Pennsylvania. I received my bachelor's degree in computer science engineering (CSE) at the University of Michigan, with a second bachelor's degree in electrical and computer engineering (ECE) at Shanghai Jiao Tong University.
+
+I'm ready to bring my passion and skills to the fast-growing **autonomous driving** industry, especially in the **motion planning** field. For more details on what I've done, you're more than welcome to visit my [personal website](https://zhihaoruan.xyz/).
 
 <p align="left">
 <img alt="Shineyruan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=shineyruan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
