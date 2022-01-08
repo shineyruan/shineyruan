@@ -4,7 +4,7 @@ I am a robotics master's student at the University of Pennsylvania. I received m
 
 <p align="left">
 <img alt="Shineyruan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=shineyruan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
-<img alt="Shineyruan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=shineyruan&hide=Tex&theme=dracula&layout=compact&langs_count=8">
+<img alt="Shineyruan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=shineyruan&hide=Tex&theme=dracula&layout=compact">
 </p>
 
 
