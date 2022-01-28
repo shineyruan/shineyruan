@@ -1,4 +1,4 @@
-### Howdy! 👋
+## Howdy! 👋
 
 I am a robotics master's student at the University of Pennsylvania. I received my bachelor's degree in computer science engineering (CSE) at the University of Michigan, with a second bachelor's degree in electrical and computer engineering (ECE) at Shanghai Jiao Tong University.
 
@@ -8,6 +8,19 @@ I'm ready to bring my passion and skills to the fast-growing **autonomous drivin
 <img alt="Shineyruan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=shineyruan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
 <img alt="Shineyruan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=shineyruan&hide=Tex&theme=dracula&layout=compact">
 </p>
+
+## Skills
+![C](https://img.shields.io/badge/-C-239DFF?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-blue?logo=ros)
+
+[![OS](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=Windows&logoColor=blue)](https://www.microsoft.com/en-us/windows)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=lightblue)](https://code.visualstudio.com/)
 
 
 <!--
