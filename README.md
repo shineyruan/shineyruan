@@ -19,7 +19,7 @@ I'm ready to bring my passion and skills to the fast-growing **autonomous drivin
 
 <p align="left">
 <img alt="Shineyruan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=shineyruan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
-<img alt="Shineyruan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=shineyruan&exclude_repo=Don-t-Step-on-White-Tiles&hide=Tex&theme=dracula&layout=compact">
+<img alt="Shineyruan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=shineyruan&hide=c,javascript&theme=dracula&layout=compact">
 </p>
 
 
