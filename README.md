@@ -2,7 +2,7 @@
 
 I graduated from the University of Pennsylvania with a master's degree in robotics. I received my bachelor's degree in computer science engineering (CSE) at the University of Michigan, with a second bachelor's degree in electrical and computer engineering (ECE) at Shanghai Jiao Tong University.
 
-I teach robots how to act, how to plan, and how to drive. For more details on what I've done, you're more than welcome to visit my [personal website](https://zhihaoruan.xyz/).
+I teach robots how to act, how to plan, and how to drive. For more details on what I've done, you're welcome to visit my [personal website](https://zhihaoruan.xyz/).
 
 ## Skills
 ![C](https://img.shields.io/badge/-C-239DFF?style=flat-square&logo=c&logoColor=white)
